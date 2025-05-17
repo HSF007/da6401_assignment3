@@ -5,16 +5,12 @@ __pycache__/
 /saved_models
 /artifacts
 /predictions
-config.py
 evaluate.py
 evaluation_attention.py
 main_attention.py
 run.py
 seq2seq_attention.py
 main.py
-sweep.py
 sweep_attention.py
-train.py
 train_attention.py
-utils.py
 README.md
