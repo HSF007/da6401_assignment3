@@ -8,7 +8,4 @@ __pycache__/
 evaluation_attention.py
 main_attention.py
 run.py
-seq2seq_attention.py
-sweep_attention.py
-train_attention.py
 README.md
