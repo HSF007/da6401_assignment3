@@ -12,7 +12,7 @@ The implementation uses a sequence-to-sequence model with attention mechanism an
 Dateset used is [Dakshina dataset](https://github.com/google-research-datasets/dakshina) created by Google Research, which includes:
 
 
-## Project Structure
+## Structure
 
 ```
 .
