@@ -4,6 +4,4 @@ __pycache__/
 /wandb
 /saved_models
 /artifacts
-/predictions
 run.py
-README.md
