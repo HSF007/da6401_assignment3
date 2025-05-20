@@ -5,7 +5,5 @@ __pycache__/
 /saved_models
 /artifacts
 /predictions
-evaluation_attention.py
-main_attention.py
 run.py
 README.md
